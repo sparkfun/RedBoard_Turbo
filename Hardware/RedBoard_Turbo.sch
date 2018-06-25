@@ -24610,7 +24610,7 @@ Program Connector</text>
 <text x="144.78" y="137.16" size="2.54" layer="94" align="top-left">Arduino R3 Headers</text>
 <text x="251.46" y="276.86" size="2.54" layer="94" align="top-left">ATSAMD21G</text>
 <text x="337.82" y="10.16" size="2.54" layer="94" align="top-left">Jim Lindblom</text>
-<text x="421.64" y="10.16" size="2.54" layer="94" align="top-left">v10</text>
+<text x="421.64" y="10.16" size="2.54" layer="94" align="top-left">v11</text>
 <wire x1="248.92" y1="0" x2="248.92" y2="35.56" width="0.2032" layer="97" style="longdash"/>
 <text x="43.18" y="40.64" size="1.778" layer="97" rot="R180">Charge Current=
 ~256mA (1000V/3900)</text>
