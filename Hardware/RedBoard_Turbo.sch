@@ -24609,7 +24609,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 Program Connector</text>
 <text x="144.78" y="137.16" size="2.54" layer="94" align="top-left">Arduino R3 Headers</text>
 <text x="251.46" y="276.86" size="2.54" layer="94" align="top-left">ATSAMD21G</text>
-<text x="337.82" y="10.16" size="2.54" layer="94" align="top-left">Jim Lindblom</text>
+<text x="348.488" y="13.97" size="2.54" layer="94" align="top-left">Mike Hord</text>
 <text x="421.64" y="10.16" size="2.54" layer="94" align="top-left">v11</text>
 <wire x1="248.92" y1="0" x2="248.92" y2="35.56" width="0.2032" layer="97" style="longdash"/>
 <text x="43.18" y="40.64" size="1.778" layer="97" rot="R180">Charge Current=
@@ -24658,6 +24658,7 @@ Single cell LiPo battery only\!</text>
 <text x="144.78" y="45.72" size="2.54" layer="94" align="top-left">QWIIC Connector</text>
 <text x="251.46" y="96.52" size="2.54" layer="94" align="top-left">WS2812 LED</text>
 <text x="251.46" y="157.48" size="2.54" layer="94" align="top-left">Flash Memory</text>
+<text x="337.82" y="7.62" size="1.27" layer="91">Original SAMD21 Dev Board by Jim Lindblom</text>
 </plain>
 <instances>
 <instance part="Y1" gate="G$1" x="292.1" y="218.44" smashed="yes" rot="R90">
