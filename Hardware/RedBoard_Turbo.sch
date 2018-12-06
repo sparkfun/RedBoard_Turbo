@@ -24052,7 +24052,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="SUPPLY11" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".2_INCH" value="SFE_LOGO_NAME_FLAME.2_INCH"/>
-<part name="SJ2" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device="NO_SILK" value="PWR-LED"/>
+<part name="SJ1" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NC_BY_TRACE" device="NO_SILK" value="PWR-LED"/>
 <part name="FID2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="FID1" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="JP7" library="SparkFun-Boards" deviceset="ARDUINO_UNO_R3" device="LOCK_HOLES"/>
@@ -24111,7 +24111,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="FID3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="FID4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="TP_15TH_THRU"/>
-<part name="S2" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-5.2-TALL-REDUNDANT" value=""/>
+<part name="S1" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-5.2-TALL-REDUNDANT" value=""/>
 </parts>
 <sheets>
 <sheet>
@@ -24134,23 +24134,19 @@ Program Connector</text>
 <wire x1="248.92" y1="0" x2="248.92" y2="35.56" width="0.2032" layer="97" style="longdash"/>
 <text x="43.18" y="40.64" size="1.778" layer="97" rot="R180">Charge Current=
 ~256mA (1000V/3900)</text>
-<text x="50.8" y="50.8" size="1.778" layer="97" align="bottom-right">SJ1 connects/disconnects R1 
-from the MCP73831 PROG input.
-Cut the jumper if you want to
-use a custom resistor value.</text>
 <wire x1="248.92" y1="35.56" x2="248.92" y2="48.26" width="0.2032" layer="97" style="longdash"/>
 <wire x1="248.92" y1="48.26" x2="248.92" y2="99.06" width="0.2032" layer="97" style="longdash"/>
 <wire x1="248.92" y1="99.06" x2="248.92" y2="160.02" width="0.2032" layer="97" style="longdash"/>
 <wire x1="248.92" y1="160.02" x2="248.92" y2="279.4" width="0.2032" layer="97" style="longdash"/>
 <wire x1="0" y1="114.3" x2="142.24" y2="114.3" width="0.2032" layer="97" style="longdash"/>
 <text x="2.54" y="111.76" size="2.54" layer="94" align="top-left">Battery Input &amp; Charge</text>
-<text x="157.48" y="215.9" size="1.778" layer="97" align="top-left">SJ2 allows disconnection
+<text x="157.48" y="215.9" size="1.778" layer="97" align="top-left">SJ1 allows disconnection
 of the power LED indicator.
 (For power saving.)</text>
 <wire x1="142.24" y1="48.26" x2="248.92" y2="48.26" width="0.2032" layer="97" style="longdash"/>
 <wire x1="248.92" y1="160.02" x2="431.8" y2="160.02" width="0.2032" layer="97" style="longdash"/>
 <wire x1="248.92" y1="35.56" x2="330.2" y2="35.56" width="0.2032" layer="97" style="longdash"/>
-<text x="50.8" y="256.54" size="1.778" layer="97">VIN must be 4.5-5.5V, if 
+<text x="50.8" y="256.54" size="1.778" layer="97">VIN must be 4.5-6.0V, if 
 battery charger is used</text>
 <text x="314.96" y="256.54" size="1.778" layer="97">ATSAMD21G18
 VDD Range: 1.62-3.63V</text>
@@ -24372,7 +24368,7 @@ Single cell LiPo battery only\!</text>
 </instance>
 <instance part="LOGO3" gate="G$1" x="317.5" y="10.16" smashed="yes"/>
 <instance part="LOGO1" gate="G$1" x="251.46" y="5.08" smashed="yes"/>
-<instance part="SJ2" gate="G$1" x="152.4" y="220.98" smashed="yes" rot="MR90">
+<instance part="SJ1" gate="G$1" x="152.4" y="220.98" smashed="yes" rot="MR90">
 <attribute name="NAME" x="154.94" y="218.44" size="1.778" layer="95" rot="MR90"/>
 <attribute name="VALUE" x="147.32" y="218.44" size="1.778" layer="96" rot="MR90"/>
 </instance>
@@ -24561,7 +24557,7 @@ Single cell LiPo battery only\!</text>
 <instance part="TP1" gate="G$1" x="226.06" y="177.8" smashed="yes">
 <attribute name="NAME" x="223.52" y="180.34" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="S2" gate="G$1" x="287.02" y="180.34"/>
+<instance part="S1" gate="G$1" x="287.02" y="180.34"/>
 </instances>
 <busses>
 </busses>
@@ -24665,7 +24661,7 @@ Single cell LiPo battery only\!</text>
 </segment>
 <segment>
 <pinref part="GND14" gate="1" pin="GND"/>
-<pinref part="SJ2" gate="G$1" pin="1"/>
+<pinref part="SJ1" gate="G$1" pin="1"/>
 <wire x1="152.4" y1="215.9" x2="152.4" y2="213.36" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -24770,7 +24766,7 @@ Single cell LiPo battery only\!</text>
 <pinref part="GND22" gate="1" pin="GND"/>
 <wire x1="294.64" y1="175.26" x2="294.64" y2="180.34" width="0.1524" layer="91"/>
 <wire x1="294.64" y1="180.34" x2="292.1" y2="180.34" width="0.1524" layer="91"/>
-<pinref part="S2" gate="G$1" pin="2"/>
+<pinref part="S1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="1"/>
@@ -24977,7 +24973,7 @@ Single cell LiPo battery only\!</text>
 <segment>
 <wire x1="281.94" y1="180.34" x2="279.4" y2="180.34" width="0.1524" layer="91"/>
 <label x="279.4" y="180.34" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="S2" gate="G$1" pin="1"/>
+<pinref part="S1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="USB_D+" class="0">
@@ -25438,7 +25434,7 @@ Single cell LiPo battery only\!</text>
 <net name="N$12" class="0">
 <segment>
 <pinref part="D3" gate="G$1" pin="C"/>
-<pinref part="SJ2" gate="G$1" pin="2"/>
+<pinref part="SJ1" gate="G$1" pin="2"/>
 <wire x1="152.4" y1="226.06" x2="152.4" y2="228.6" width="0.1524" layer="91"/>
 </segment>
 </net>
