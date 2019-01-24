@@ -1,7 +1,7 @@
 SparkFun RedBoard Turbo
 ========================================
 
-![SparkFun RedBoard Turbo](https://cdn.sparkfun.com/assets/parts/1/3/0/7/9/14812-SparkFun_RedBoard_Turbo_-_SAMD21_Development_Board-01.jpg)
+![SparkFun RedBoard Turbo](https://cdn.sparkfun.com/assets/parts/1/3/0/7/9/14812-SparkFun_RedBoard_Turbo_-_SAMD21_Development_Board-01b.jpg)
 
 [*SparkFun RedBoard Turbo (DEV-14812)*](https://www.sparkfun.com/products/14812)
 
@@ -17,7 +17,10 @@ Repository Contents
 
 Documentation
 --------------
+* **[SparkFun Arduino Boards](https://github.com/sparkfun/Arduino_Boards** - Arduino Boards.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/redboard-turbo-hookup-guide)** - Basic hookup guide for the RedBoard Turbo.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** - Graphical Datasheets for various SparkFun products.
 
 License Information
 -------------------
