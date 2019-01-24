@@ -1,32 +1,23 @@
-SparkFun SAMD21 Dev Breakout
+SparkFun RedBoard Turbo
 ========================================
 
-![SparkFun SAMD21 Dev Breakout](https://cdn.sparkfun.com//assets/parts/1/1/1/1/5/13672-01.jpg)
+![SparkFun RedBoard Turbo](https://cdn.sparkfun.com/assets/parts/1/3/0/7/9/14812-SparkFun_RedBoard_Turbo_-_SAMD21_Development_Board-01.jpg)
 
-[*SparkFun SAMD21 Dev Breakout (DEV-13672)*](https://www.sparkfun.com/products/13672)
+[*SparkFun RedBoard Turbo (DEV-14812)*](https://www.sparkfun.com/products/14812)
 
-The SAMD21 Dev Breakout is an Arduino-sized breakout for the Atmel [ATSAMD21G18](http://www.atmel.com/devices/ATSAMD21G18A.aspx), a 32-bit ARM Cortex-M0+ processor with 256KB flash, 32KB SRAM, and an operating speed of up to 48MHz. The SAMD21 is compatible with the Arduino IDE, and libraries for the Arduino Zero.
+The RedBoard Turbo is an Arduino-sized breakout for the Atmel [ATSAMD21G18](http://www.atmel.com/devices/ATSAMD21G18A.aspx), a 32-bit ARM Cortex-M0+ processor with 4MB external flash, 32KB SRAM, and an operating speed of up to 48MHz. The SAMD21 is compatible with the Arduino IDE, and libraries for the Arduino Zero. With the UF2 bootloader, programming is easier than ever!
 
 Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Firmware** - SAM_BA SAMD21 Bootloader
+* **/Firmware** - UF2 Bootloader
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/samd21-Devdev-breakout-hookup-guide/resources--going-further)** - Basic hookup guide for the SAMD21 Dev Breakout.
-
-Product Versions
-----------------
-* [DEV-13672](https://www.sparkfun.com/products/13672) - Initial product release - v10.
-* [DEV-13672](https://www.sparkfun.com/products/13664) - The SparkFun SAMD21 _Mini_ Breakout -- a similar, Arduino-shaped version of this board.
-
-Version History
----------------
-* [v1.0](https://github.com/sparkfun/SAMD21_Dev_Breakout/tree/v10) - Initial release 
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/redboard-turbo-hookup-guide)** - Basic hookup guide for the RedBoard Turbo.
 
 License Information
 -------------------
@@ -39,4 +30,4 @@ If you have any questions or concerns on licensing, please contact techsupport@s
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
+-- Your friends at SparkFun.
