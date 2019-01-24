@@ -17,7 +17,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[SparkFun Arduino Boards](https://github.com/sparkfun/Arduino_Boards** - Arduino Boards.
+* **[SparkFun Arduino Boards](https://github.com/sparkfun/Arduino_Boards)** - Arduino Boards.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/redboard-turbo-hookup-guide)** - Basic hookup guide for the RedBoard Turbo.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** - Graphical Datasheets for various SparkFun products.
