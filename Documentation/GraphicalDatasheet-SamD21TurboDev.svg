@@ -14,7 +14,10 @@
    height="8.5in"
    width="11in"
    sodipodi:docname="GraphicalDatasheet-SamD21TurboDev.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\Users\hocha\Desktop\GraphicalDatasheet-SAMD21TurboDev_1.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,17 +27,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2469"
+     inkscape:window-height="1706"
      id="namedview2152"
      showgrid="false"
-     inkscape:zoom="1.5374215"
-     inkscape:cx="619.12728"
-     inkscape:cy="285.3973"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:zoom="2.1742424"
+     inkscape:cx="573.99249"
+     inkscape:cy="564.14022"
+     inkscape:window-x="5924"
+     inkscape:window-y="217"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
   <defs
      id="defs4">
     <pattern
@@ -53,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -489,9 +492,24 @@
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">EXTINT1</text>
     <rect
+       id="rect186"
+       y="337.9021"
+       x="735.54663"
+       width="35.262341"
+       ry="0.78360754"
+       rx="0.78360754"
+       height="9.4032907"
+       style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.78360754" />
+    <text
+       id="text188"
+       y="347.30539"
+       x="736.33026"
+       font-size="12"
+       style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">SCK</text>
+    <rect
        id="rect190"
        y="337.9021"
-       x="735.46173"
+       x="773.15979"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -500,13 +518,13 @@
     <text
        id="text192"
        y="347.30539"
-       x="736.2453"
+       x="773.94336"
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SER1:1/ 3 :</text>
     <rect
        id="rect194"
        y="337.9021"
-       x="773.07489"
+       x="810.77295"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -515,13 +533,13 @@
     <text
        id="text196"
        y="347.30539"
-       x="773.85852"
+       x="811.55658"
        font-size="9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">TCC2:1/0:7</text>
     <rect
        id="rect198"
        y="337.9021"
-       x="810.68805"
+       x="848.38611"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -530,7 +548,7 @@
     <text
        id="text200"
        y="347.30539"
-       x="811.47168"
+       x="849.16974"
        font-size="12"
        style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">PTC:X5</text>
     <rect
@@ -594,9 +612,24 @@
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">EXTINT3</text>
     <rect
+       id="rect222"
+       y="349.65622"
+       x="735.54663"
+       width="35.262341"
+       ry="0.78360754"
+       rx="0.78360754"
+       height="9.4032907"
+       style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.78360754" />
+    <text
+       id="text224"
+       y="359.05948"
+       x="736.33026"
+       font-size="12"
+       style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">MISO</text>
+    <rect
        id="rect226"
        y="349.65622"
-       x="735.46173"
+       x="773.15979"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -605,13 +638,13 @@
     <text
        id="text228"
        y="359.05948"
-       x="736.2453"
+       x="773.94336"
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SER1:3/3:3</text>
     <rect
        id="rect230"
        y="349.65622"
-       x="773.07489"
+       x="810.77295"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -620,19 +653,19 @@
     <text
        id="text232"
        y="359.05948"
-       x="773.85852"
+       x="811.55658"
        font-size="9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">
       <tspan
          style="font-size:5px;line-height:1.25"
          y="359.05948"
-         x="773.85852"
+         x="811.55658"
          id="tspan5686">TC3:1/TCC0:3</tspan>
     </text>
     <rect
        id="rect234"
        y="349.65622"
-       x="810.68805"
+       x="848.38611"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -641,13 +674,13 @@
     <text
        id="text236"
        y="359.05948"
-       x="811.47168"
+       x="849.16974"
        font-size="12"
        style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">PTC:X7</text>
     <rect
        id="rect238"
        y="349.65622"
-       x="848.30121"
+       x="885.99927"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -656,7 +689,7 @@
     <text
        id="text240"
        y="359.05948"
-       x="849.08484"
+       x="886.7829"
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">I2S/SD[0]</text>
     <rect
@@ -720,9 +753,24 @@
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">EXTINT0</text>
     <rect
+       id="rect258"
+       y="361.41031"
+       x="735.54663"
+       width="35.262341"
+       ry="0.78360754"
+       rx="0.78360754"
+       height="9.4032907"
+       style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.78360754" />
+    <text
+       id="text260"
+       y="370.8136"
+       x="736.33026"
+       font-size="12"
+       style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">MOSI</text>
+    <rect
        id="rect262"
        y="361.41031"
-       x="735.46173"
+       x="773.15979"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -731,13 +779,13 @@
     <text
        id="text264"
        y="370.8136"
-       x="736.2453"
+       x="773.94336"
        font-size="12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SER1:0/3:0</text>
     <rect
        id="rect266"
        y="361.41031"
-       x="773.07489"
+       x="810.77295"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -746,13 +794,13 @@
     <text
        id="text268"
        y="370.8136"
-       x="773.85852"
+       x="811.55658"
        font-size="9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">TCC2:0/0:6</text>
     <rect
        id="rect270"
        y="361.41031"
-       x="810.68805"
+       x="848.38611"
        width="35.262341"
        ry="0.78360754"
        rx="0.78360754"
@@ -761,7 +809,7 @@
     <text
        id="text272"
        y="370.8136"
-       x="811.47168"
+       x="849.16974"
        font-size="12"
        style="font-size:9.40329075px;line-height:0%;font-family:Montserrat;fill:#000000">PTC:X4</text>
     <rect
@@ -3139,7 +3187,7 @@
        y="172.5851"
        x="539.2121"
        font-size="12"
-       style="font-size:9.32434654px;line-height:0%;font-family:Montserrat;fill:#000000">PB03</text>
+       style="font-size:9.32434654px;line-height:0%;font-family:Montserrat;fill:#000000">PA31</text>
     <rect
        id="rect674"
        y="163.26082"
@@ -3169,7 +3217,11 @@
        y="172.5851"
        x="613.80695"
        font-size="12"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">EXTINT3</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">
+      <tspan
+         style="font-size:6.875px"
+         id="tspan1486">EXTINT11</tspan>
+    </text>
     <rect
        id="rect682"
        y="163.26082"
@@ -3184,7 +3236,7 @@
        y="172.5851"
        x="651.10443"
        font-size="12"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SER5:1</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SER1:3</text>
     <rect
        id="rect686"
        y="163.26082"
@@ -3199,22 +3251,7 @@
        y="172.5851"
        x="688.40179"
        font-size="9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">TC6:1</text>
-    <rect
-       id="rect690"
-       y="163.26082"
-       x="724.92218"
-       width="34.966297"
-       ry="0.7770288"
-       rx="0.7770288"
-       height="9.3243465"
-       style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.7770288" />
-    <text
-       id="text692"
-       y="172.5851"
-       x="725.69916"
-       font-size="12"
-       style="font-size:9.32434654px;line-height:0%;font-family:Montserrat;fill:#000000">PTC:Y9</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">TCC0:1/1:3</text>
     <rect
        id="rect698"
        y="174.9754"
@@ -4180,10 +4217,7 @@
        y="531.26324"
        x="449.79346"
        font-size="12"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SPI headers-<tspan
-   style="font-weight:bold"
-   id="tspan1486">3.3V ONLY</tspan>
-</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">SPI headers</text>
     <rect
        id="rect6"
        y="23.824041"
